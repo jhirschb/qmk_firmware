@@ -1,5 +1,7 @@
 _This keymap is a copy of the [Lily58 default keymap](https://github.com/qmk/qmk_firmware/tree/master/keyboards/lily58/keymaps/default), with slight modifications._
 
+I'm running this code on a Liatris Microcontroller, it might, or might not run on controllers with less memory. Feel free to leave feedback. 
+
 # How to show conways game of life on your OLED display
 
 Add the files _conway.c_ and _conway.h to your keymap folder and add the line 
